@@ -1,2 +1,2 @@
-# AStar_path_finding
+# Maze Solver
 ![](A_star_algorithm.gif)
